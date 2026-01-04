@@ -1,0 +1,15 @@
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #7fbaf5;
+    color: white;
+    text-align: center;
+    width: 50%;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    line-height: 15%;    
+}
+
+.footer .para{
+    opacity: 90%;
+}

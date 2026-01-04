@@ -1,0 +1,11 @@
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.header{
+    color: rgb(20, 73, 247);
+    background-color: #f4f4f9;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+}

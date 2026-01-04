@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap'); */
+*{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.header{
+    background-color: #11ef29;
+    word-spacing: 3px;
+    /* display: inline-block; */
+    width: 40%;
+    height: auto;
+    align-items: center;
+    margin: auto;
+}
+
+.header .para{
+    word-spacing: normal;
+}
